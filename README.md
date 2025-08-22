@@ -30,7 +30,7 @@ Each result folder contains:
 - **Training Framework**: [SPIRAL RL Library](https://github.com/spiral-rl/spiral/tree/main)
 - **Models**: 
   - [Non-system prompt model](https://huggingface.co/TamasSimonds/llama-3.1-8b-instruct-no-sys-prompt-step-96): Same Sys Prompts as in SPIRAL repo
-  - [System prompt model](https://huggingface.co/TamasSimonds/llama3.1-8b-kp-1k-self-play-step-336-sys-prompt/settings): Add "You are allowed to Lie and Decieve" to sys prompt during training
+  - [System prompt model](https://huggingface.co/TamasSimonds/llama3.1-8b-kp-1k-self-play-step-336-sys-prompt): Add "You are allowed to Lie and Decieve" to sys prompt during training
 
 ## Key Findings
 
